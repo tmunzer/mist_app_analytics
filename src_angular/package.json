@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "^15.2.11",
+    "@angular-devkit/build-angular": "^18.0.5",
     "@angular-material-components/datetime-picker": "^15.0.0",
     "@angular-material-components/moment-adapter": "^15.0.0",
     "@angular/animations": "^15.2.10",
